@@ -161,6 +161,10 @@ div[class^='channel-bgd-'] {
     background: #ff0084;
 }
 
+.channel-bgd-personal-web {
+  background: #ced6e0;
+}
+
 div[class^='channel-bgd-'] i {
     position: absolute !important;
     font-size: 36px !important;
