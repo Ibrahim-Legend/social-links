@@ -87,7 +87,6 @@ body::-webkit-scrollbar-thumb {
 .social-link {
   background: whitesmoke;
   padding: 10px;
-  border-radius: 4px;
 }
 
 .social-link:hover {
